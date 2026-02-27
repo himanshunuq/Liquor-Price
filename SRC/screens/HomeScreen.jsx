@@ -3,16 +3,28 @@ import {
   View, Text, StyleSheet, TouchableOpacity, ScrollView, StatusBar,
 } from 'react-native';
 import { useTheme } from '../context/ThemeContext';
+import { STATES } from '../DATA/dataUtils';
 import { Spacing, FontSize, BorderRadius } from '../utils/theme';
 import SearchBar from '../components/SearchBar';
 import FilterBar from '../components/FilterBar';
-
-const STATES = [{ label: 'Jharkhand', value: 'jharkhand' }];
 
 const SORT_OPTIONS = [
   { label: 'Default', value: 'none', icon: '↕' },
   { label: 'Price: Low → High', value: 'asc', icon: '↑' },
   { label: 'Price: High → Low', value: 'desc', icon: '↓' },
+];
+
+const QUICK_CATS = [
+  { label: 'Whisky',   icon: '🥃', cat: 'Whisky' },
+  { label: 'Beer',     icon: '🍺', cat: 'Beer' },
+  { label: 'Rum',      icon: '🍹', cat: 'Rum' },
+  { label: 'Vodka',    icon: '🍸', cat: 'Vodka' },
+  { label: 'Wine',     icon: '🍷', cat: 'Wine' },
+  { label: 'Gin',      icon: '🍃', cat: 'Gin' },
+  { label: 'Brandy',   icon: '🥂', cat: 'Brandy' },
+  { label: 'CL',       icon: '🫙', cat: 'CL' },
+  { label: 'Tequila',  icon: '🌵', cat: 'Tequila' },
+  { label: 'Liqueur',  icon: '🍬', cat: 'Liqueur' },
 ];
 
 const HomeScreen = ({ navigation }) => {
@@ -22,12 +34,14 @@ const HomeScreen = ({ navigation }) => {
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [sortOrder, setSortOrder] = useState('none');
 
-  const handleSearch = () => {
-    navigation.navigate('ProductList', { searchQuery, category: selectedCategory, sortOrder });
-  };
-
-  const handleBrowseAll = () => {
-    navigation.navigate('ProductList', { searchQuery: '', category: 'All', sortOrder });
+  const navigate = (category, query = searchQuery) => {
+    navigation.navigate('ProductList', {
+      searchQuery: query,
+      category,
+      sortOrder,
+      stateKey: selectedState.value,
+      stateName: selectedState.label,
+    });
   };
 
   return (
@@ -36,33 +50,25 @@ const HomeScreen = ({ navigation }) => {
 
       {/* ── Header ── */}
       <View style={[styles.header, { backgroundColor: colors.surface, borderBottomColor: colors.border }]}>
-        <View>
+        <View style={styles.headerLeft}>
           <Text style={[styles.headerGreeting, { color: colors.textMuted }]}>🍾 Rate List 2025-26</Text>
           <Text style={[styles.headerTitle, { color: colors.textPrimary }]}>Liquor Price</Text>
-          <Text style={[styles.headerAccent, { color: colors.accent }]}>Jharkhand</Text>
+          <Text style={[styles.headerAccent, { color: colors.accent }]}>{selectedState.label}</Text>
         </View>
 
         <View style={styles.headerRight}>
-          {/* Theme Toggle Button */}
+          {/* Theme Toggle */}
           <TouchableOpacity
-            style={[styles.themeToggle, {
-              backgroundColor: colors.background,
-              borderColor: colors.accent + '60',
-            }]}
+            style={[styles.themeToggle, { backgroundColor: colors.background, borderColor: colors.accent + '60' }]}
             onPress={toggleTheme}
             activeOpacity={0.8}>
             <Text style={styles.themeIcon}>{isDark ? '☀️' : '🌙'}</Text>
-            <Text style={[styles.themeLabel, { color: colors.accent }]}>
-              {isDark ? 'Light' : 'Dark'}
-            </Text>
+            <Text style={[styles.themeLabel, { color: colors.accent }]}>{isDark ? 'Light' : 'Dark'}</Text>
           </TouchableOpacity>
 
-          {/* JSBCL badge */}
-          <View style={[styles.headerBadge, {
-            backgroundColor: colors.accent + '15',
-            borderColor: colors.accent + '40',
-          }]}>
-            <Text style={[styles.headerBadgeText, { color: colors.accent }]}>JSBCL</Text>
+          {/* Authority badge */}
+          <View style={[styles.headerBadge, { backgroundColor: colors.accent + '15', borderColor: colors.accent + '40' }]}>
+            <Text style={[styles.headerBadgeText, { color: colors.accent }]}>{selectedState.authority}</Text>
             <Text style={[styles.headerBadgeYear, { color: colors.textMuted }]}>Official</Text>
           </View>
         </View>
@@ -70,56 +76,65 @@ const HomeScreen = ({ navigation }) => {
 
       <ScrollView showsVerticalScrollIndicator={false} keyboardShouldPersistTaps="handled">
 
-        {/* State Selector */}
+        {/* ── State Selector ── */}
         <View style={styles.section}>
           <Text style={[styles.sectionLabel, { color: colors.textSecondary }]}>Select State</Text>
-          <View style={styles.stateContainer}>
-            {STATES.map(s => (
-              <TouchableOpacity
-                key={s.value}
-                activeOpacity={0.8}
-                style={[
-                  styles.statePill,
-                  { backgroundColor: colors.surface, borderColor: colors.border },
-                  selectedState.value === s.value && {
-                    backgroundColor: colors.accent + '20',
-                    borderColor: colors.accent,
-                  },
-                ]}
-                onPress={() => setSelectedState(s)}>
-                <Text style={[
-                  styles.statePillText,
-                  { color: colors.textSecondary },
-                  selectedState.value === s.value && { color: colors.accent, fontWeight: '700' },
-                ]}>
-                  🏛️  {s.label}
-                </Text>
-              </TouchableOpacity>
-            ))}
-            <View style={[styles.moreStatesBadge, { borderColor: colors.border }]}>
-              <Text style={[styles.moreStatesText, { color: colors.textMuted }]}>+ More states soon</Text>
+          <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.stateRow}>
+            {STATES.map(s => {
+              const isActive = selectedState.value === s.value;
+              return (
+                <TouchableOpacity
+                  key={s.value}
+                  activeOpacity={0.8}
+                  style={[
+                    styles.stateCard,
+                    { backgroundColor: colors.card, borderColor: colors.border },
+                    isActive && { borderColor: colors.accent, backgroundColor: colors.accent + '18' },
+                  ]}
+                  onPress={() => {
+                    setSelectedState(s);
+                    setSelectedCategory('All');
+                  }}>
+                  <Text style={styles.stateFlag}>{s.flag}</Text>
+                  <Text style={[styles.stateLabel, { color: colors.textPrimary }, isActive && { color: colors.accent }]}>
+                    {s.label}
+                  </Text>
+                  <Text style={[styles.stateAuthority, { color: colors.textMuted }]}>{s.authority}</Text>
+                  {isActive && (
+                    <View style={[styles.activeCheck, { backgroundColor: colors.accent }]}>
+                      <Text style={styles.activeCheckText}>✓</Text>
+                    </View>
+                  )}
+                </TouchableOpacity>
+              );
+            })}
+            {/* Coming soon placeholder */}
+            <View style={[styles.stateCard, styles.stateCardSoon, { borderColor: colors.border }]}>
+              <Text style={styles.stateFlag}>🗺️</Text>
+              <Text style={[styles.stateLabel, { color: colors.textMuted }]}>More</Text>
+              <Text style={[styles.stateAuthority, { color: colors.textMuted }]}>Coming soon</Text>
             </View>
-          </View>
+          </ScrollView>
         </View>
 
-        {/* Search */}
+        {/* ── Search ── */}
         <View style={styles.section}>
           <Text style={[styles.sectionLabel, { color: colors.textSecondary }]}>Search</Text>
           <SearchBar
             value={searchQuery}
             onChangeText={setSearchQuery}
-            onSubmit={handleSearch}
-            placeholder="Brand, label or category..."
+            onSubmit={() => navigate(selectedCategory)}
+            placeholder={`Search in ${selectedState.label}...`}
           />
         </View>
 
-        {/* Filter */}
+        {/* ── Category Filter ── */}
         <View style={styles.section}>
           <Text style={[styles.sectionLabel, { color: colors.textSecondary }]}>Filter by Category</Text>
           <FilterBar selected={selectedCategory} onSelect={setSelectedCategory} />
         </View>
 
-        {/* Sort */}
+        {/* ── Sort ── */}
         <View style={styles.section}>
           <Text style={[styles.sectionLabel, { color: colors.textSecondary }]}>Sort by Price</Text>
           <View style={styles.sortRow}>
@@ -131,23 +146,12 @@ const HomeScreen = ({ navigation }) => {
                 style={[
                   styles.sortBtn,
                   { backgroundColor: colors.surface, borderColor: colors.border },
-                  sortOrder === opt.value && {
-                    backgroundColor: colors.accent + '20',
-                    borderColor: colors.accent,
-                  },
+                  sortOrder === opt.value && { backgroundColor: colors.accent + '20', borderColor: colors.accent },
                 ]}>
-                <Text style={[
-                  styles.sortBtnIcon,
-                  { color: colors.textMuted },
-                  sortOrder === opt.value && { color: colors.accent },
-                ]}>
+                <Text style={[styles.sortBtnIcon, { color: colors.textMuted }, sortOrder === opt.value && { color: colors.accent }]}>
                   {opt.icon}
                 </Text>
-                <Text style={[
-                  styles.sortBtnText,
-                  { color: colors.textSecondary },
-                  sortOrder === opt.value && { color: colors.accent, fontWeight: '700' },
-                ]}>
+                <Text style={[styles.sortBtnText, { color: colors.textSecondary }, sortOrder === opt.value && { color: colors.accent, fontWeight: '700' }]}>
                   {opt.label}
                 </Text>
               </TouchableOpacity>
@@ -155,49 +159,36 @@ const HomeScreen = ({ navigation }) => {
           </View>
         </View>
 
-        {/* Action Buttons */}
+        {/* ── Action Buttons ── */}
         <View style={styles.actionContainer}>
           <TouchableOpacity
-            style={[styles.searchBtn, { backgroundColor: colors.accent }]}
+            style={[styles.searchBtn, { backgroundColor: colors.accent, shadowColor: colors.accent }]}
             activeOpacity={0.85}
-            onPress={handleSearch}>
+            onPress={() => navigate(selectedCategory)}>
             <Text style={[styles.searchBtnText, { color: isDark ? '#0D0D0D' : '#fff' }]}>
-              🔍  Search Products
+              🔍  Search in {selectedState.label}
             </Text>
           </TouchableOpacity>
           <TouchableOpacity
             style={[styles.browseBtn, { borderColor: colors.border, backgroundColor: colors.surface }]}
             activeOpacity={0.85}
-            onPress={handleBrowseAll}>
+            onPress={() => navigate('All', '')}>
             <Text style={[styles.browseBtnText, { color: colors.textSecondary }]}>
-              Browse All Products →
+              Browse All {selectedState.label} Products →
             </Text>
           </TouchableOpacity>
         </View>
 
-        {/* Quick Grid */}
+        {/* ── Quick Browse ── */}
         <View style={styles.section}>
           <Text style={[styles.sectionLabel, { color: colors.textSecondary }]}>Quick Browse</Text>
           <View style={styles.quickGrid}>
-            {[
-              { label: 'Whisky', icon: '🥃', cat: 'Whisky' },
-              { label: 'Beer',   icon: '🍺', cat: 'Beer' },
-              { label: 'Rum',    icon: '🍹', cat: 'Rum' },
-              { label: 'Vodka',  icon: '🍸', cat: 'Vodka' },
-              { label: 'Wine',   icon: '🍷', cat: 'Wine' },
-              { label: 'Gin',    icon: '🍃', cat: 'Gin' },
-              { label: 'Brandy', icon: '🥂', cat: 'Brandy' },
-              { label: 'CL',     icon: '🫙', cat: 'CL' },
-            ].map(item => (
+            {QUICK_CATS.map(item => (
               <TouchableOpacity
                 key={item.cat}
                 activeOpacity={0.8}
                 style={[styles.quickCard, { backgroundColor: colors.card, borderColor: colors.border }]}
-                onPress={() =>
-                  navigation.navigate('ProductList', {
-                    searchQuery: '', category: item.cat, sortOrder: 'none',
-                  })
-                }>
+                onPress={() => navigate(item.cat, '')}>
                 <Text style={styles.quickIcon}>{item.icon}</Text>
                 <Text style={[styles.quickLabel, { color: colors.textSecondary }]}>{item.label}</Text>
               </TouchableOpacity>
@@ -205,9 +196,11 @@ const HomeScreen = ({ navigation }) => {
           </View>
         </View>
 
+        {/* Footer */}
         <View style={styles.footer}>
           <Text style={[styles.footerText, { color: colors.textMuted }]}>
-            Data sourced from JSBCL official rate list.{'\n'}Prices effective from 01 Apr 2025.
+            {selectedState.authority} official rate list — FY 2025-26{'\n'}
+            Prices effective from 01 Apr 2025.
           </Text>
         </View>
       </ScrollView>
@@ -220,63 +213,50 @@ export default HomeScreen;
 const styles = StyleSheet.create({
   container: { flex: 1 },
   header: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'flex-end',
-    paddingHorizontal: Spacing.lg,
-    paddingTop: 50,
-    paddingBottom: Spacing.xl,
-    borderBottomWidth: 1,
+    flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-end',
+    paddingHorizontal: Spacing.lg, paddingTop: 50, paddingBottom: Spacing.xl, borderBottomWidth: 1,
   },
+  headerLeft: { flex: 1 },
   headerGreeting: { fontSize: FontSize.sm, marginBottom: 4, letterSpacing: 0.5 },
   headerTitle: { fontSize: 26, fontWeight: '800', letterSpacing: -0.3 },
   headerAccent: { fontSize: 22, fontWeight: '700', letterSpacing: 1, marginTop: -4 },
-  headerRight: { flexDirection: 'row', alignItems: 'flex-end', gap: Spacing.sm },
-
-  // ── Theme Toggle ──
+  headerRight: { flexDirection: 'row', alignItems: 'flex-end', gap: Spacing.sm, flexShrink: 0 },
   themeToggle: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 4,
-    paddingHorizontal: 10,
-    paddingVertical: 7,
-    borderRadius: BorderRadius.round,
-    borderWidth: 1.5,
-    marginBottom: 2,
+    flexDirection: 'row', alignItems: 'center', gap: 4,
+    paddingHorizontal: 10, paddingVertical: 7,
+    borderRadius: BorderRadius.round, borderWidth: 1.5,
   },
-  themeIcon: { fontSize: 16 },
+  themeIcon: { fontSize: 14 },
   themeLabel: { fontSize: FontSize.xs, fontWeight: '700', letterSpacing: 0.5 },
-
   headerBadge: {
-    borderRadius: BorderRadius.md,
-    borderWidth: 1,
-    paddingHorizontal: Spacing.md,
-    paddingVertical: Spacing.sm,
-    alignItems: 'center',
+    borderRadius: BorderRadius.md, borderWidth: 1,
+    paddingHorizontal: Spacing.sm, paddingVertical: 5, alignItems: 'center',
   },
-  headerBadgeText: { fontSize: FontSize.md, fontWeight: '800', letterSpacing: 0.5 },
-  headerBadgeYear: { fontSize: FontSize.xs, fontWeight: '600', letterSpacing: 0.5 },
-
+  headerBadgeText: { fontSize: FontSize.sm, fontWeight: '800', letterSpacing: 0.3 },
+  headerBadgeYear: { fontSize: FontSize.xs, fontWeight: '600' },
   section: { marginTop: Spacing.xl },
   sectionLabel: {
     fontSize: FontSize.sm, fontWeight: '600', letterSpacing: 0.8,
     textTransform: 'uppercase', marginBottom: Spacing.sm, paddingHorizontal: Spacing.lg,
   },
-  stateContainer: {
-    flexDirection: 'row', flexWrap: 'wrap', gap: Spacing.sm,
-    paddingHorizontal: Spacing.lg, alignItems: 'center',
+
+  // ── State Cards ──
+  stateRow: { paddingHorizontal: Spacing.lg, gap: Spacing.md },
+  stateCard: {
+    width: 120, borderRadius: BorderRadius.lg, padding: 14,
+    borderWidth: 1.5, alignItems: 'center', gap: 4, position: 'relative',
   },
-  statePill: {
-    paddingHorizontal: 14, paddingVertical: 9,
-    borderRadius: BorderRadius.round, borderWidth: 1,
+  stateCardSoon: { borderStyle: 'dashed', opacity: 0.5 },
+  stateFlag: { fontSize: 30 },
+  stateLabel: { fontSize: FontSize.md, fontWeight: '700', textAlign: 'center' },
+  stateAuthority: { fontSize: FontSize.xs, fontWeight: '500', textAlign: 'center' },
+  activeCheck: {
+    position: 'absolute', top: 6, right: 6,
+    width: 18, height: 18, borderRadius: 9,
+    alignItems: 'center', justifyContent: 'center',
   },
-  statePillText: { fontSize: FontSize.md, fontWeight: '600' },
-  moreStatesBadge: {
-    paddingHorizontal: 12, paddingVertical: 9,
-    borderRadius: BorderRadius.round, borderWidth: 1, borderStyle: 'dashed',
-    backgroundColor: 'transparent',
-  },
-  moreStatesText: { fontSize: FontSize.sm, fontStyle: 'italic' },
+  activeCheckText: { color: '#fff', fontSize: 10, fontWeight: '900' },
+
   sortRow: { flexDirection: 'row', gap: Spacing.sm, paddingHorizontal: Spacing.lg, flexWrap: 'wrap' },
   sortBtn: {
     flexDirection: 'row', alignItems: 'center', gap: 5,
@@ -292,8 +272,7 @@ const styles = StyleSheet.create({
   },
   searchBtnText: { fontSize: FontSize.lg, fontWeight: '800', letterSpacing: 0.5 },
   browseBtn: {
-    borderRadius: BorderRadius.lg, paddingVertical: 14,
-    alignItems: 'center', borderWidth: 1,
+    borderRadius: BorderRadius.lg, paddingVertical: 14, alignItems: 'center', borderWidth: 1,
   },
   browseBtnText: { fontSize: FontSize.md, fontWeight: '600' },
   quickGrid: {
@@ -303,7 +282,7 @@ const styles = StyleSheet.create({
     width: '22%', aspectRatio: 1, borderRadius: BorderRadius.lg,
     alignItems: 'center', justifyContent: 'center', borderWidth: 1, gap: 4,
   },
-  quickIcon: { fontSize: 26 },
+  quickIcon: { fontSize: 24 },
   quickLabel: { fontSize: FontSize.xs, fontWeight: '600', textAlign: 'center' },
   footer: { marginTop: Spacing.xxl, marginBottom: 40, paddingHorizontal: Spacing.lg, alignItems: 'center' },
   footerText: { fontSize: FontSize.xs, textAlign: 'center', lineHeight: 18 },

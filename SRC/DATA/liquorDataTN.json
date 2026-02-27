@@ -1,0 +1,3991 @@
+{
+  "document": {
+    "title": "MAXIMUM RETAIL PRICE OF IMFS BRANDS",
+    "updated_date": "16 Dec 2025",
+    "effective_date": "01 Feb 2024",
+    "financial_year": "2025-2026",
+    "state": "Tamil Nadu",
+    "authority": "TAMIL NADU STATE MARKETING CORPORATION LIMITED"
+  },
+  "manufacturers": [
+    {
+      "name": "M/S. EMPEE DISTILLERIES LTD",
+      "products": [
+        {
+          "category": "Rum",
+          "label_name": "OLD SECRET XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD SECRET XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD SECRET XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD CHEF DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD CHEF DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD CHEF DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MCLENE ORIGINAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MCLENE ORIGINAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MCLENE ORIGINAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "POWER APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "POWER APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "POWER APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "POWER ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "POWER ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "POWER ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ALL GOLD VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ALL GOLD VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ALL GOLD VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 SUPER STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 SUPER STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 SUPER STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "EL CANSO DARK XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "EL CANSO DARK XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "EL CANSO DARK XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EMPEEES NAPOLEAN BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EMPEEES NAPOLEAN BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EMPEEES NAPOLEAN BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRIHANS NAPOLEON PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 840.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRIHANS NAPOLEON PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 420.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRIHANS NAPOLEON PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 210.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ELCANSO PREMIUM DELUXE V.S.O.P. BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ELCANSO PREMIUM DELUXE V.S.O.P. BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ELCANSO PREMIUM DELUXE V.S.O.P. BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARTE ROYALE XO PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 920.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARTE ROYALE XO PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 460.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARTE ROYALE XO PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 230.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CHEVALIER DE PARIS XL PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CHEVALIER DE PARIS XL PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CHEVALIER DE PARIS XL PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "VASCO 1498 PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "VASCO 1498 PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "VASCO 1498 PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BOOTZ AUTHENTIC DUTCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BOOTZ AUTHENTIC DUTCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BOOTZ AUTHENTIC DUTCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "BRITISH EMPIRE PREMIUM GOLD WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "BRITISH EMPIRE PREMIUM GOLD WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "BRITISH EMPIRE PREMIUM GOLD WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. SHIVA DISTILLERIES PRIVATE LTD",
+      "products": [
+        {
+          "category": "Rum",
+          "label_name": "MONITOR ORD 3D GOLD RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "MONITOR ORD 3D GOLD RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "MONITOR ORD 3D GOLD RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MONITOR DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MONITOR DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MONITOR DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "MONITOR DELUXE WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "MONITOR DELUXE WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "MONITOR DELUXE WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OAK VAT MATURED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OAK VAT MATURED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OAK VAT MATURED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARDINAL GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARDINAL GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARDINAL GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "GOLD MAKER WHITE MED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "GOLD MAKER WHITE MED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "GOLD MAKER WHITE MED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ARIZONA PREMIUM APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ARIZONA PREMIUM APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ARIZONA PREMIUM APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CLASSIC GRANDEE PREMIUM RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CLASSIC GRANDEE PREMIUM RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CLASSIC GRANDEE PREMIUM RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARDINAL NO.1 VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 840.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARDINAL NO.1 VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 420.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CARDINAL NO.1 VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 210.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. SAFIL",
+      "products": [
+        {
+          "category": "Brandy",
+          "label_name": "DIAMOND BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DIAMOND BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DIAMOND BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "DIAMOND WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "DIAMOND WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "DIAMOND WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "DIAMOND XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 750.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "DIAMOND XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "DIAMOND XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "DIAMOND XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM ORANGE MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 910.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM ORANGE MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM ORANGE MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM ORANGE MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM APPLE MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM APPLE MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM APPLE MEDIUM VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM NO.1 VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM NO.1 VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM NO.1 VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "MGM RICHMAN'S DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "MGM RICHMAN'S DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "MGM RICHMAN'S DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM RICHMAN'S NO.1 GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 840.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM RICHMAN'S NO.1 GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 420.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM RICHMAN'S NO.1 GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 210.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1230.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 920.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 460.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 230.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM LIMON VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM LIMON VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM LIMON VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM GOVA VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM GOVA VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MGM GOVA VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "MGM INDIAN CHALLENGE PREMIUM WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "MGM INDIAN CHALLENGE PREMIUM WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "MGM INDIAN CHALLENGE PREMIUM WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CLOVIS XO FRENCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1120.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CLOVIS XO FRENCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CLOVIS XO FRENCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD RESERVE FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1650.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD RESERVE FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1240.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD RESERVE FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 620.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MGM GOLD RESERVE FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 310.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HOBSONS XR PURE FRENCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1840.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HOBSONS XR PURE FRENCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 920.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HOBSONS XR PURE FRENCH GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 460.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. ACCORD DISTILLERS & BREWERS PVT. LTD.",
+      "products": [
+        {
+          "category": "Brandy",
+          "label_name": "HONIEY DAY BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HONIEY DAY BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HONIEY DAY BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD MONSTER XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD MONSTER XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD MONSTER XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HONIEY DAY DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HONIEY DAY DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HONIEY DAY DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ARABIAN PRIDE DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ARABIAN PRIDE DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ARABIAN PRIDE DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "HONIEY DAY SUPER FINE WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "HONIEY DAY SUPER FINE WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "HONIEY DAY SUPER FINE WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ACCORD NO.1 BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ACCORD NO.1 BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ACCORD NO.1 BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "ACCORD NO.1 BLENDED WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "ACCORD NO.1 BLENDED WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "ACCORD NO.1 BLENDED WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EVENING WALKER SUPER FINE BLENDED FRENCH BDY.",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EVENING WALKER SUPER FINE BLENDED FRENCH BDY.",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EVENING WALKER SUPER FINE BLENDED FRENCH BDY.",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CARRIBEAN KICK XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CARRIBEAN KICK XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CARRIBEAN KICK XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ACCORD'S FINE DISTILLED ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ACCORD'S FINE DISTILLED ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ACCORD'S FINE DISTILLED ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ACCORD'S PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ACCORD'S PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ACCORD'S PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "WONDERLAND SPECIAL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "WONDERLAND SPECIAL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "WONDERLAND SPECIAL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KING NAPOLEON XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 840.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KING NAPOLEON XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 420.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KING NAPOLEON XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 210.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLENDER'S MAGIC VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLENDER'S MAGIC VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLENDER'S MAGIC VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL ACCORD PRE.GOLD FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL ACCORD PRE.GOLD FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL ACCORD PRE.GOLD FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL ACCORD BLUE XR FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL ACCORD BLUE XR FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL ACCORD BLUE XR FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HOLANDAS SPANISH VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HOLANDAS SPANISH VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "HOLANDAS SPANISH VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ANCIENT CASK PREMIUM XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ANCIENT CASK PREMIUM XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ANCIENT CASK PREMIUM XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "SCOTTISH ROYAL FINEST BLENDED SCOTCH WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "SCOTTISH ROYAL FINEST BLENDED SCOTCH WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "SCOTTISH ROYAL FINEST BLENDED SCOTCH WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MISSIONARY MONKS AUTHENTIC PURE XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MISSIONARY MONKS AUTHENTIC PURE XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MISSIONARY MONKS AUTHENTIC PURE XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "AGE DE OAK VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1320.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "AGE DE OAK VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 660.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "AGE DE OAK VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 330.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "Henry X Special Reserve Brandy XO",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 2680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "Henry X Special Reserve Brandy XO",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "Henry X Special Reserve Brandy XO",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 670.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. KALS DISTILLERIES (P) LTD",
+      "products": [
+        {
+          "category": "Brandy",
+          "label_name": "BLACK PEARL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLACK PEARL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLACK PEARL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BLACK PEARL XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BLACK PEARL XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BLACK PEARL XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MAGNUS CHOICE VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MAGNUS CHOICE VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MAGNUS CHOICE VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "COPPER BARREL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "COPPER BARREL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "COPPER BARREL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "COPPER BARREL DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "COPPER BARREL DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "COPPER BARREL DELUXE XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KALS NAPOLEAN II PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 840.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KALS NAPOLEAN II PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 420.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KALS NAPOLEAN II PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 210.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1330.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ASPIRA LEMON TWIST RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ASPIRA LEMON TWIST RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ASPIRA LEMON TWIST RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ASPIRA BERRY BLAST RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ASPIRA BERRY BLAST RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ASPIRA BERRY BLAST RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "1848 PREMIUM GRAIN WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "1848 PREMIUM GRAIN WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "1848 PREMIUM GRAIN WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KONIGE FUSION VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KONIGE FUSION VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KONIGE FUSION VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KONIGE FUSION VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ASIO TRIPLE SELECT VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1490.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ASIO TRIPLE SELECT VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1120.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ASIO TRIPLE SELECT VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ASIO TRIPLE SELECT VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 280.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. MIDAS GOLDEN DISTILLERIES (P) LTD",
+      "products": [
+        {
+          "category": "Brandy",
+          "label_name": "BINNIE'S DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BINNIE'S DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BINNIE'S DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CAPTON RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CAPTON RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "CAPTON RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CAPTON BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CAPTON BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CAPTON BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "JET BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "JET BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "JET BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "JET SELECT XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "JET SELECT XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "JET SELECT XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OFFICER'S CHOICE NO.1 CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OFFICER'S CHOICE NO.1 CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OFFICER'S CHOICE NO.1 CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD ADMIRAL SELECT VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD ADMIRAL SELECT VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD ADMIRAL SELECT VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DAY NICHT BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DAY NICHT BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DAY NICHT BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SEA BREEZE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SEA BREEZE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SEA BREEZE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ARABIAN NIGHT RESERVE PREMIUM XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 840.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ARABIAN NIGHT RESERVE PREMIUM XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 420.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ARABIAN NIGHT RESERVE PREMIUM XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 210.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ARISTOCRAT PREMIUM VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ARISTOCRAT PREMIUM VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ARISTOCRAT PREMIUM VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CENTURIAN FRENCH VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CENTURIAN FRENCH VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "CENTURIAN FRENCH VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KYRON PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KYRON PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KYRON PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. SNJ DISTILLERS (P) LTD",
+      "products": [
+        {
+          "category": "Brandy",
+          "label_name": "TOP STAR SPECIAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "TOP STAR SPECIAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "TOP STAR SPECIAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD CHEF STRONG XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD CHEF STRONG XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "OLD CHEF STRONG XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD CHEF DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD CHEF DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "OLD CHEF DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 SUPER STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 SUPER STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 SUPER STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 XO STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 XO STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ NO.1 XO STRONG BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ACTIVATOR VANILLA VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ACTIVATOR VANILLA VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "ACTIVATOR VANILLA VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ROLE MODEL SUPERIOR DARK RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ROLE MODEL SUPERIOR DARK RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ROLE MODEL SUPERIOR DARK RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRIHAN'S SUPERIOR GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRIHAN'S SUPERIOR GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRIHAN'S SUPERIOR GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "FRENCH XO PLUS PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "FRENCH XO PLUS PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "FRENCH XO PLUS PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "THE DUTCHMAN EXCLUSIVE PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "THE DUTCHMAN EXCLUSIVE PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "THE DUTCHMAN EXCLUSIVE PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL PALACE PREMIUM BLENDED BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL PALACE PREMIUM BLENDED BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROYAL PALACE PREMIUM BLENDED BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ VSOP PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 960.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ VSOP PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 480.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SNJ VSOP PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 240.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KING LOUIS XIV XO FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KING LOUIS XIV XO FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "KING LOUIS XIV XO FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MORPHEUS XO BLENDED PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MORPHEUS XO BLENDED PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MORPHEUS XO BLENDED PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MAGIC MOMENTS PREMIUM APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MAGIC MOMENTS PREMIUM APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "MAGIC MOMENTS PREMIUM APPLE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO PURE DISTILLED VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO PURE DISTILLED VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO PURE DISTILLED VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BOLS XO EXCELLENCE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BOLS XO EXCELLENCE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BOLS XO EXCELLENCE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI CLASSIC SUPERIOR RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI CLASSIC SUPERIOR RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI CLASSIC SUPERIOR RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRITISH EMPIRE PREMIUM MATURED BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRITISH EMPIRE PREMIUM MATURED BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BRITISH EMPIRE PREMIUM MATURED BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI LIMON-ORIGINAL CITRUS RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI LIMON-ORIGINAL CITRUS RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI LIMON-ORIGINAL CITRUS RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI APPLE-ORIGINAL APPLE RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1080.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI APPLE-ORIGINAL APPLE RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 540.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI APPLE-ORIGINAL APPLE RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 270.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "AFTER DARK FINE GRAIN WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1120.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "AFTER DARK FINE GRAIN WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "AFTER DARK FINE GRAIN WHISKY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI BLACK ORIGINAL PREMIUM CRAFTED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1120.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI BLACK ORIGINAL PREMIUM CRAFTED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "BACARDI BLACK ORIGINAL PREMIUM CRAFTED RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO SUPERIOR PINK VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1120.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO SUPERIOR PINK VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO SUPERIOR PINK VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO FINE ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1120.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO FINE ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Vodka",
+          "label_name": "JUNO FINE ORANGE VODKA",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SIGNOUT PREMIUM CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1320.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SIGNOUT PREMIUM CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 660.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SIGNOUT PREMIUM CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 330.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MORPHEUS BLUE XO + BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1400.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MORPHEUS BLUE XO + BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 700.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "MORPHEUS BLUE XO + BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 350.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. GOLDEN VATS (P) LTD",
+      "products": [
+        {
+          "category": "Brandy",
+          "label_name": "GOLDEN CHOICE DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "GOLDEN CHOICE DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "GOLDEN CHOICE DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SEAMEN'S PRIDE CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SEAMEN'S PRIDE CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SEAMEN'S PRIDE CLASSIC BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ONE MAN ARMY XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ONE MAN ARMY XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "ONE MAN ARMY XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "TROPICANA VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "TROPICANA VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "TROPICANA VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "GOLDEN VATS NO.1 BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "GOLDEN VATS NO.1 BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "GOLDEN VATS NO.1 BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROMAN CASTLE GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROMAN CASTLE GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "ROMAN CASTLE GRAPE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        }
+      ]
+    },
+    {
+      "name": "M/S. KALS BEVERAGES PVT. LTD",
+      "products": [
+        {
+          "category": "Brandy",
+          "label_name": "IMPERIAL'S EXPRESS SPECIAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "IMPERIAL'S EXPRESS SPECIAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "IMPERIAL'S EXPRESS SPECIAL BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "IMPERIAL'S EXPRESS SPECIAL XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 560.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "IMPERIAL'S EXPRESS SPECIAL XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 280.00
+        },
+        {
+          "category": "Rum",
+          "label_name": "IMPERIAL'S EXPRESS SPECIAL XXX RUM",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLACK MAGIC SUPERIOR BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLACK MAGIC SUPERIOR BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "BLACK MAGIC SUPERIOR BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EMPEROR DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EMPEROR DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "EMPEROR DELUXE BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "COPPER BARREL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "COPPER BARREL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "COPPER BARREL VSOP BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "NIGHT OWL VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1070.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "NIGHT OWL VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 800.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "NIGHT OWL VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "NIGHT OWL VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "IMPERIAL XO FRENCH PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "IMPERIAL XO FRENCH PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "IMPERIAL XO FRENCH PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1170.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "LA MARTINE VSOP PREMIUM BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SPARTA VSOP FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1230.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SPARTA VSOP FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 920.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SPARTA VSOP FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 460.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "SPARTA VSOP FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 230.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DES MARQUIS PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DES MARQUIS PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "DES MARQUIS PREMIUM FRENCH BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1330.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1000.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 500.00
+        },
+        {
+          "category": "Brandy",
+          "label_name": "1848 PREMIUM XO BRANDY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 250.00
+        }
+      ]
+    },
+    {
+      "name": "BEER - M/S. ACCORD DISTILLERS & BREWERS PVT LTD",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "110000 VOLTS SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "ROYAL ACCORD SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "CARLSBERG ELEPHANT SUPREME PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "TUBORG SUPER STRONG PREMIUM COPENHAGEN BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "TUBORG SUPER STRONG PREMIUM COPENHAGEN BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "CHENNAI KING NO.1 SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 180.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "HOLANDAS PREMIUM SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        }
+      ]
+    },
+    {
+      "name": "BEER - M/S. UNITED BREWERIES LIMITED at ARANVOYAL VILLAGE",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "KING FISHER SUPERIOR STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KING FISHER SUPERIOR STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 75.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KING FISHER SELECT PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KING FISHER SELECT PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 80.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 85.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "ZINGARO CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "ZINGARO CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER BLUE SPECIAL STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER BLUE SPECIAL STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "AMSTEL PREMIUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 180.00
+        }
+      ]
+    },
+    {
+      "name": "BEER - M/S. UNITED BREWERIES LIMITED at KUTHAMBAAKKAM",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "ZINGARO MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "ZINGARO MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 80.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KING FISHER SELECT PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KING FISHER SELECT PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 85.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "ZINGARO CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "ZINGARO CLASSIC STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER BLUE SPECIAL STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER BLUE SPECIAL STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        }
+      ]
+    },
+    {
+      "name": "BEER - M/S. SNJ BREWERIES PRIVATE LTD",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "SNJ 10000 SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "HIGH VOLTAGE DELUXE SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BRITISH EMPIRE ULTRA PREMIUM EXCLUSIVE BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BRITISH EMPIRE ULTRA PREMIUM EXCLUSIVE BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BRITISH EMPIRE ULTRA PREMIUM EXCLUSIVE BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 80.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "SNJ 10000 DELUXE SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "SNJ 10000 DELUXE SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BRITISH EMPIRE PREMIUM SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BRITISH EMPIRE PREMIUM SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "British Empire 100% Malt Super Strong Beer",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 210.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "British Empire 100% Malt Super Strong Beer",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 190.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "British Empire 100% Malt Super Strong Beer",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 110.00
+        }
+      ]
+    },
+    {
+      "name": "BEER - M/S. KALS BREWERIES PRIVATE LTD",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "STERREN 7 PREMIUM QUALITY LAGER BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "STERREN 7 PREMIUM QUALITY LAGER BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "STERREN 7 PREMIUM QUALITY LAGER BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KOLT EXTRA STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KOLT EXTRA STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BLACK PEARL TRIPLE SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BLACK PEARL TRIPLE SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 140.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "STERREN 8 PREMIUM QUALITY STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "STERREN 8 PREMIUM QUALITY STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "STERREN 8 PREMIUM QUALITY STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 85.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "SPIEL TRIPLE STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 180.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "SPIEL TRIPLE STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "SPIEL TRIPLE STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 95.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S ORIGINAL PREMIUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S ORIGINAL PREMIUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S ORIGINAL PREMIUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S COOL BLUE LAGER BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 190.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S COOL BLUE LAGER BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S COOL BLUE LAGER BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 100.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S SPECIAL MALTED BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 220.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S SPECIAL MALTED BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 190.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "FOSTER'S SPECIAL MALTED BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 115.00
+        }
+      ]
+    },
+    {
+      "name": "BEER - M/s. TROPICAL BREWERIES PRIVATE LIMITED",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "THUNDERBOLT SUPREME STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "THUNDERBOLT SUPREME STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "THUNDERBOLT SUPREME STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "GODFATHER THE LEGENDARY SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 180.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "GODFATHER THE LEGENDARY SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "GODFATHER THE LEGENDARY SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "325ML",
+          "mrp": 95.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER MAGNUM STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "KINGFISHER ULTRA MAX SPECIAL STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 210.00
+        }
+      ]
+    },
+    {
+      "name": "WINE - LOCAL - CUMBUM VALLEY WINERY PVT. LTD",
+      "products": [
+        {
+          "category": "Wine",
+          "label_name": "RED SEA DELUXE FORTIFIED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 360.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "RED SEA DELUXE FORTIFIED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 180.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "RED SEA DELUXE FORTIFIED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 90.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MISTY GRAPES RED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 400.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MISTY GRAPES RED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 200.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MISTY GRAPES RED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 100.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "RED SEA CLASSIC FORTIFIED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 480.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "RED SEA CLASSIC FORTIFIED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 240.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "RED SEA CLASSIC FORTIFIED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 120.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MISTY VINTAGE RED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MISTY VINTAGE RED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 260.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MISTY VINTAGE RED WINE",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 130.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MUSCATO C VALLEY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 880.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MUSCATO C VALLEY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 440.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "MUSCATO C VALLEY",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 220.00
+        }
+      ]
+    },
+    {
+      "name": "WINE - Other States - M/s. Sula Vineyards Ltd.",
+      "products": [
+        {
+          "category": "Wine",
+          "label_name": "Sula Brut Tropicale",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 2010.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Dindori Shiraz",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1640.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Rasa Shiraz",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 2360.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Late Harvest Chenin Blanc",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1580.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Late Harvest Chenin Blanc",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 790.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Sauvignon Blanc",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1340.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Sauvignon Blanc",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 670.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Satori Tempranillo",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1340.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Satori Tempranillo",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 670.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Shiraz Cabernet",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1500.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Shiraz Cabernet",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 750.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Sula Vineyards Riesling",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1560.00
+        }
+      ]
+    },
+    {
+      "name": "WINE - Other States - M/s. Vinbros & Co.",
+      "products": [
+        {
+          "category": "Wine",
+          "label_name": "Globus Fortified Port Wine",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 680.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Globus Fortified Port Wine",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 340.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "Globus Fortified Port Wine",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 170.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "The Warehouse Red Wine",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 1160.00
+        },
+        {
+          "category": "Wine",
+          "label_name": "The Warehouse Red Wine",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 580.00
+        }
+      ]
+    },
+    {
+      "name": "Other States Scotch Whisky - M/s. Pernard Ricard India Pvt. Ltd.",
+      "products": [
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's 100 Pipers Deluxe Blended Scotch Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 2770.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's 100 Pipers Deluxe Blended Scotch Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's 100 Pipers Deluxe Blended Scotch Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's 100 Pipers Exceptional Blended Scotch Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 3460.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's 100 Pipers Exceptional Blended Scotch Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 650.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's 100 Pipers Exceptional Blended Malt Scotch Whisky Aged 8 Years",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 3360.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's 100 Pipers Exceptional Blended Malt Scotch Whisky Aged 8 Years",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "630ML",
+          "mrp": 630.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's Blenders Pride Exquisite Premium Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "1000ML",
+          "mrp": 1920.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's Blenders Pride Exquisite Premium Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 720.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Seagram's Blenders Pride Exquisite Premium Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 360.00
+        }
+      ]
+    },
+    {
+      "name": "Other States Scotch Whisky Gin - M/s. Radio Khaitan Ltd.",
+      "products": [
+        {
+          "category": "Whisky",
+          "label_name": "Royal Ranthambore Heritage Collection Royal Crafted Reserve Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 2080.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Royal Ranthambore Heritage Collection Royal Crafted Reserve Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 1040.00
+        },
+        {
+          "category": "Whisky",
+          "label_name": "Royal Ranthambore Heritage Collection Royal Crafted Reserve Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "180ML",
+          "mrp": 520.00
+        },
+        {
+          "category": "Gin",
+          "label_name": "JAISALMER CRAFT INDIAN GIN",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 3160.00
+        },
+        {
+          "category": "Gin",
+          "label_name": "JAISALMER CRAFT INDIAN GIN",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "375ML",
+          "mrp": 790.00
+        }
+      ]
+    },
+    {
+      "name": "Other States Beer brands - M/s. Lillasons Alcobev Private Limited",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "BLOCK BUSTER ULTRA STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 180.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BLOCK BUSTER ULTRA STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 140.00
+        }
+      ]
+    },
+    {
+      "name": "Other States Beer brands - M/s. WOODPECKER DISTILLERIES AND BREWERIES PRIVATE LIMITED",
+      "products": [
+        {
+          "category": "Beer",
+          "label_name": "BLACK FORT SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 180.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BLACK FORT SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML",
+          "mrp": 95.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BLACK FORT SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML_CAN",
+          "mrp": 95.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "BLACK FORT SUPER STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 150.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER LAGER NATURAL WHEAT BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 240.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER LAGER NATURAL WHEAT BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML",
+          "mrp": 125.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER LAGER NATURAL WHEAT BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML_CAN",
+          "mrp": 125.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER LAGER NATURAL WHEAT BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 190.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "HUNTER REFRESHING STRONG PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 190.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "HUNTER REFRESHING STRONG PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML",
+          "mrp": 100.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "HUNTER REFRESHING STRONG PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML_CAN",
+          "mrp": 100.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "HUNTER REFRESHING STRONG PREMIUM BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 160.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER CREST STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "650ML",
+          "mrp": 250.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER CREST STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML",
+          "mrp": 130.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER CREST STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "330ML_CAN",
+          "mrp": 130.00
+        },
+        {
+          "category": "Beer",
+          "label_name": "WOODPECKER CREST STRONG BEER",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "500ML",
+          "mrp": 200.00
+        }
+      ]
+    },
+    {
+      "name": "Other States Whisky - M/s. Amrut Distilleries Pvt. Ltd.",
+      "products": [
+        {
+          "category": "Whisky",
+          "label_name": "Amrut Amalgam Malt Whisky",
+          "effective_date": "01 Feb 2024",
+          "pack_size": "750ML",
+          "mrp": 3310.00
+        }
+      ]
+    }
+  ]
+}

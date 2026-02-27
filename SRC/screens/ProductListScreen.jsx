@@ -22,6 +22,8 @@ const ProductListScreen = ({ navigation, route }) => {
     searchQuery: initialSearch = '',
     category: initialCategory = 'All',
     sortOrder: initialSort = 'none',
+    stateKey = 'jharkhand',
+    stateName = 'Jharkhand',
   } = route.params || {};
 
   const [searchQuery, setSearchQuery] = useState(initialSearch);
@@ -32,14 +34,15 @@ const ProductListScreen = ({ navigation, route }) => {
 
   const loadProducts = useCallback(() => {
     setLoading(true);
-    const result = filterProducts({ searchQuery, category: selectedCategory, sortOrder });
+    const result = filterProducts({ searchQuery, category: selectedCategory, sortOrder, stateKey });
     setProducts(result);
     setLoading(false);
-  }, [searchQuery, selectedCategory, sortOrder]);
+  }, [searchQuery, selectedCategory, sortOrder, stateKey]);
 
   useEffect(() => { loadProducts(); }, [loadProducts]);
 
-  const handleProductPress = item => navigation.navigate('ProductDetail', { item });
+  const handleProductPress = item =>
+    navigation.navigate('ProductDetail', { item, stateKey });
 
   const renderItem = ({ item }) => (
     <ProductCard item={item} onPress={() => handleProductPress(item)} />
@@ -86,27 +89,35 @@ const ProductListScreen = ({ navigation, route }) => {
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]}>
       <StatusBar barStyle={colors.statusBar} backgroundColor={colors.surface} />
+
+      {/* Header */}
       <View style={[styles.header, { backgroundColor: colors.surface, borderBottomColor: colors.border }]}>
-        <TouchableOpacity onPress={() => navigation.goBack()} style={[styles.backBtn, { backgroundColor: colors.card, borderColor: colors.border }]} activeOpacity={0.7}>
+        <TouchableOpacity
+          onPress={() => navigation.goBack()}
+          style={[styles.backBtn, { backgroundColor: colors.card, borderColor: colors.border }]}
+          activeOpacity={0.7}>
           <Text style={[styles.backIcon, { color: colors.accent }]}>←</Text>
         </TouchableOpacity>
         <View style={styles.headerCenter}>
           <Text style={[styles.headerTitle, { color: colors.textPrimary }]}>
             {selectedCategory !== 'All' ? selectedCategory : 'All Products'}
           </Text>
-          {initialSearch ? (
-            <Text style={[styles.headerSub, { color: colors.textMuted }]} numberOfLines={1}>
-              "{initialSearch}"
-            </Text>
-          ) : null}
+          <Text style={[styles.headerSub, { color: colors.textMuted }]} numberOfLines={1}>
+            {stateName}
+            {initialSearch ? `  ·  "${initialSearch}"` : ''}
+          </Text>
         </View>
-        <Text style={[styles.jhTag, { color: colors.accent }]}>JH</Text>
+        <View style={[styles.stateTagHeader, { borderColor: colors.accent + '50', backgroundColor: colors.accent + '10' }]}>
+          <Text style={[styles.stateTagText, { color: colors.accent }]}>
+            {stateName === 'Tamil Nadu' ? 'TN' : 'JH'}
+          </Text>
+        </View>
       </View>
 
       {loading ? (
         <View style={styles.loadingContainer}>
           <ActivityIndicator size="large" color={colors.accent} />
-          <Text style={[styles.loadingText, { color: colors.textMuted }]}>Loading products...</Text>
+          <Text style={[styles.loadingText, { color: colors.textMuted }]}>Loading {stateName} products...</Text>
         </View>
       ) : (
         <FlatList
@@ -133,32 +144,28 @@ const styles = StyleSheet.create({
   container: { flex: 1 },
   header: {
     flexDirection: 'row', alignItems: 'center',
-    paddingHorizontal: Spacing.md, paddingTop: 44, paddingBottom: Spacing.md,
-    borderBottomWidth: 1,
+    paddingHorizontal: Spacing.md, paddingTop: 44, paddingBottom: Spacing.md, borderBottomWidth: 1,
   },
-  backBtn: {
-    width: 40, height: 40, borderRadius: 20,
-    alignItems: 'center', justifyContent: 'center', borderWidth: 1,
-  },
+  backBtn: { width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center', borderWidth: 1 },
   backIcon: { fontSize: 20, fontWeight: '700' },
   headerCenter: { flex: 1, paddingHorizontal: Spacing.md },
   headerTitle: { fontSize: FontSize.xl, fontWeight: '800' },
   headerSub: { fontSize: FontSize.xs, marginTop: 1 },
-  jhTag: { fontSize: FontSize.sm, fontWeight: '800', letterSpacing: 1 },
+  stateTagHeader: {
+    paddingHorizontal: 10, paddingVertical: 5,
+    borderRadius: BorderRadius.md, borderWidth: 1, minWidth: 36, alignItems: 'center',
+  },
+  stateTagText: { fontSize: FontSize.sm, fontWeight: '800', letterSpacing: 1 },
   searchSection: { marginTop: Spacing.md, marginBottom: Spacing.xs },
   metaRow: {
     flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between',
-    paddingHorizontal: Spacing.lg, paddingVertical: Spacing.md,
-    borderBottomWidth: 1, marginBottom: Spacing.sm,
+    paddingHorizontal: Spacing.lg, paddingVertical: Spacing.md, borderBottomWidth: 1, marginBottom: Spacing.sm,
   },
   countBadge: { flexDirection: 'row', alignItems: 'baseline', gap: 4 },
   countNumber: { fontSize: FontSize.xxl, fontWeight: '800' },
   countLabel: { fontSize: FontSize.sm, fontWeight: '500' },
   sortRow: { flexDirection: 'row', gap: 6 },
-  sortChip: {
-    paddingHorizontal: 10, paddingVertical: 5,
-    borderRadius: BorderRadius.round, borderWidth: 1,
-  },
+  sortChip: { paddingHorizontal: 10, paddingVertical: 5, borderRadius: BorderRadius.round, borderWidth: 1 },
   sortChipText: { fontSize: FontSize.xs, fontWeight: '600' },
   loadingContainer: { flex: 1, alignItems: 'center', justifyContent: 'center', gap: Spacing.md },
   loadingText: { fontSize: FontSize.md },

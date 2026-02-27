@@ -3,8 +3,10 @@ import { View, Text, ScrollView, TouchableOpacity, StyleSheet } from 'react-nati
 import { useTheme } from '../context/ThemeContext';
 import { getCategoryColor, Spacing, FontSize, BorderRadius } from '../utils/theme';
 
+// All possible categories across all states
 const FILTER_CATEGORIES = [
-  'All', 'Whisky', 'Beer', 'Rum', 'Vodka', 'Wine', 'Gin', 'CL', 'Brandy', 'LAB',
+  'All', 'Whisky', 'Beer', 'Rum', 'Vodka', 'Wine',
+  'Gin', 'CL', 'Brandy', 'LAB', 'Tequila', 'Liqueur',
 ];
 
 const FilterBar = ({ selected, onSelect }) => {
@@ -54,7 +56,11 @@ export default FilterBar;
 
 const styles = StyleSheet.create({
   scroll: { marginBottom: Spacing.md },
-  scrollContent: { paddingHorizontal: Spacing.lg, gap: Spacing.sm, alignItems: 'center' },
+  scrollContent: {
+    paddingHorizontal: Spacing.lg,
+    gap: Spacing.sm,
+    alignItems: 'center',
+  },
   pill: {
     paddingHorizontal: 14,
     paddingVertical: 7,
