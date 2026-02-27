@@ -170,7 +170,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   appSubName: {
-    color: Colors.accent,
+    color: Colors.textPrimary,
     fontSize: 26,
     fontWeight: '700',
     letterSpacing: 2,
@@ -186,7 +186,7 @@ const styles = StyleSheet.create({
     opacity: 0.8,
   },
   tagline: {
-    color: Colors.textSecondary,
+    color: Colors.textPrimary,
     fontSize: FontSize.sm,
     letterSpacing: 1,
     fontWeight: '500',
