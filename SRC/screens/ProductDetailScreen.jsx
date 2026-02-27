@@ -21,8 +21,8 @@ const sortPackSizes = variants =>
 
 const ProductDetailScreen = ({ navigation, route }) => {
   const { colors, isDark } = useTheme();
-  const { item } = route.params;
-  const allVariants = getProductVariants(item.brandName, item.labelName);
+  const { item, stateKey = 'jharkhand' } = route.params;
+  const allVariants = getProductVariants(item.brandName, item.labelName, stateKey);
   const sortedVariants = sortPackSizes(allVariants);
   const catColor = getCategoryColor(item.category, isDark);
   const cheapest = Math.min(...allVariants.map(v => v.mrp));
@@ -52,7 +52,7 @@ const ProductDetailScreen = ({ navigation, route }) => {
           <View style={styles.heroTop}>
             <CategoryBadge category={item.category} size="lg" />
             <View style={[styles.stateTag, { backgroundColor: colors.surface, borderColor: colors.border }]}>
-              <Text style={[styles.stateTagText, { color: colors.textMuted }]}>🏛️ Jharkhand</Text>
+              <Text style={[styles.stateTagText, { color: colors.textMuted }]}>🏛️ {item.state}</Text>
             </View>
           </View>
           <Text style={[styles.heroLabel, { color: colors.textPrimary }]}>{item.labelName}</Text>
@@ -137,7 +137,7 @@ const ProductDetailScreen = ({ navigation, route }) => {
         {/* Disclaimer */}
         <View style={[styles.disclaimer, { backgroundColor: colors.surface, borderColor: colors.border }]}>
           <Text style={[styles.disclaimerText, { color: colors.textMuted }]}>
-            ⚠️ Prices are official MRP from JSBCL rate list. Actual prices may vary at retail outlets. 18+ only.
+            {'⚠️ Prices are official MRP as per ' + item.state + ' excise authority.\nActual prices may vary at retail outlets. 18+ only.'}
           </Text>
         </View>
       </ScrollView>

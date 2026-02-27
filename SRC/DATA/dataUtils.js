@@ -1,10 +1,25 @@
-import rawData from './liquorDataJH.json';
+import jh from './liquorDataJH.json';
+import tn from './liquorDataTN.json';
 
-// Flatten nested manufacturers -> products into a single array
-let _flatProducts = null;
+// ── State registry ────────────────────────────────────────────────
+export const STATES = [
+  { label: 'Jharkhand', value: 'jharkhand', flag: '🏛️', authority: 'JSBCL' },
+  { label: 'Tamil Nadu', value: 'tamilnadu', flag: '🌴', authority: 'TASMAC' },
+];
 
-export const getFlatProducts = () => {
-  if (_flatProducts) return _flatProducts;
+const STATE_DATA_MAP = {
+  jharkhand: jh,
+  tamilnadu: tn,
+};
+
+// ── Per-state flat cache ──────────────────────────────────────────
+const flatCache = {};
+
+export const getFlatProducts = (stateKey = 'jharkhand') => {
+  if (flatCache[stateKey]) return flatCache[stateKey];
+
+  const rawData = STATE_DATA_MAP[stateKey];
+  if (!rawData) return [];
 
   const { document, manufacturers } = rawData;
   const flatList = [];
@@ -13,7 +28,7 @@ export const getFlatProducts = () => {
   manufacturers.forEach(manufacturer => {
     manufacturer.products.forEach(product => {
       flatList.push({
-        id: String(id++),
+        id: `${stateKey}_${id++}`,
         brandName: manufacturer.name,
         labelName: product.label_name,
         category: normalizeCategory(product.category),
@@ -21,16 +36,18 @@ export const getFlatProducts = () => {
         mrp: product.mrp,
         effectiveDate: product.effective_date,
         state: document.state,
+        authority: document.authority || '',
         year: document.financial_year,
+        stateKey,
       });
     });
   });
 
-  _flatProducts = flatList;
+  flatCache[stateKey] = flatList;
   return flatList;
 };
 
-// Normalize category casing for consistent filtering
+// ── Category normalizer ───────────────────────────────────────────
 const normalizeCategory = cat => {
   if (!cat) return 'Other';
   const lower = cat.toLowerCase().trim();
@@ -41,31 +58,26 @@ const normalizeCategory = cat => {
   if (lower.includes('wine')) return 'Wine';
   if (lower.includes('gin')) return 'Gin';
   if (lower === 'cl') return 'CL';
-  if (lower.includes('brandy')) return 'Brandy';
+  if (lower.includes('brandy') || lower.includes('cognac')) return 'Brandy';
+  if (lower.includes('tequila')) return 'Tequila';
+  if (lower.includes('liqueur') || lower.includes('liquor')) return 'Liqueur';
   if (lower === 'lab') return 'LAB';
-  return capitalizeFirst(cat);
+  return cat.charAt(0).toUpperCase() + cat.slice(1).toLowerCase();
 };
 
-const capitalizeFirst = str =>
-  str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+// ── Filter + search + sort ────────────────────────────────────────
+export const filterProducts = ({
+  searchQuery = '',
+  category = 'All',
+  sortOrder = 'none',
+  stateKey = 'jharkhand',
+}) => {
+  let products = getFlatProducts(stateKey);
 
-// Get all unique categories
-export const getCategories = () => {
-  const products = getFlatProducts();
-  const cats = new Set(products.map(p => p.category));
-  return ['All', ...Array.from(cats).sort()];
-};
-
-// Filter + search + sort products
-export const filterProducts = ({ searchQuery = '', category = 'All', sortOrder = 'none' }) => {
-  let products = getFlatProducts();
-
-  // Category filter
   if (category && category !== 'All') {
     products = products.filter(p => p.category === category);
   }
 
-  // Search filter
   if (searchQuery.trim()) {
     const q = searchQuery.toLowerCase().trim();
     products = products.filter(
@@ -76,7 +88,6 @@ export const filterProducts = ({ searchQuery = '', category = 'All', sortOrder =
     );
   }
 
-  // Sort
   if (sortOrder === 'asc') {
     products = [...products].sort((a, b) => a.mrp - b.mrp);
   } else if (sortOrder === 'desc') {
@@ -86,10 +97,9 @@ export const filterProducts = ({ searchQuery = '', category = 'All', sortOrder =
   return products;
 };
 
-// Get all pack sizes for a given label + brandName (for detail screen)
-export const getProductVariants = (brandName, labelName) => {
-  const products = getFlatProducts();
-  return products.filter(
+// ── Variants for detail screen ────────────────────────────────────
+export const getProductVariants = (brandName, labelName, stateKey = 'jharkhand') => {
+  return getFlatProducts(stateKey).filter(
     p => p.brandName === brandName && p.labelName === labelName,
   );
 };
